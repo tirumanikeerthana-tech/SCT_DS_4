@@ -1,0 +1,9 @@
+  Weather Road_Condition       Time  Accidents
+0   Clear            Dry    Morning         20
+1    Rain            Wet      Night         35
+2     Fog            Wet    Evening         15
+3   Clear            Dry  Afternoon         25
+4    Rain            Wet      Night         40
+5     Fog            Wet    Morning         10
+6   Clear            Dry    Evening         30
+
